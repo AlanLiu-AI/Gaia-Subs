@@ -4,3 +4,6 @@
 [submodule "Infrastructure/hadoop-common"]
 	path = Infrastructure/hadoop-common
 	url = git@github.com:AlanLiu-AI/hadoop-common.git
+[submodule "Infrastructure/storm"]
+	path = Infrastructure/storm
+	url = git@github.com:AlanLiu-AI/storm.git
