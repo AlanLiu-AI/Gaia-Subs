@@ -1,0 +1,3 @@
+[submodule "Infrastructure/Cassandra"]
+	path = Infrastructure/Cassadra
+	url = git@github.com:AlanLiu-AI/cassandra.git
