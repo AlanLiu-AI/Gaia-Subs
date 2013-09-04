@@ -1,3 +1,6 @@
 [submodule "Infrastructure/Cassandra"]
 	path = Infrastructure/Cassandra
 	url = git@github.com:AlanLiu-AI/cassandra.git
+[submodule "Infrastructure/hadoop-common"]
+	path = Infrastructure/hadoop-common
+	url = git@github.com:AlanLiu-AI/hadoop-common.git
