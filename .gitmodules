@@ -7,3 +7,6 @@
 [submodule "Infrastructure/storm"]
 	path = Infrastructure/storm
 	url = git@github.com:AlanLiu-AI/storm.git
+[submodule "Infrastructure/hbase"]
+	path = Infrastructure/hbase
+	url = git@github.com:AlanLiu-AI/hbase.git
